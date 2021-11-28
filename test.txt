@@ -1,2 +1,3 @@
+new line added after cloning from repo.
 My again commit test.txt ! 
 added changes. 
